@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Projectile
+  - EnemyCollisionAttack
+  - ParryShield
+  - Grass
+  - PlayerPickUpBox
+  - Wood
+  - EnemySwordBlock
+  - Enemy
+  - TAD
+  - GameManager
+  - BlockObject
+  - Trap
+  - Statue
+  - DialogueBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GroundLayer
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Item
+  - FeetCheckBox
+  - Interaction
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Top
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3249299663
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entities
+    uniqueID: 942103347
+    locked: 0
